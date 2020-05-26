@@ -4,11 +4,12 @@ This repository contains the source code for my 4th year project: Fabrication an
 Folder structure:
 1. 1-Segment Robot
 
-  a. MATLAB code for Lagrangian derivation, taskspace solver, simulated controller
+      a. MATLAB code for Lagrangian derivation, taskspace solver, simulated controller
+  
   
 2. 2-Segment Robot
 
-  a. MATLAB code for Lagrangian derivation, taskspace solver, simulated controller
+      a. MATLAB code for Lagrangian derivation, taskspace solver, simulated controller
   
-  b. Vex C++ code for Robot prototype controller and vision sensor calibration
+     b. Vex C++ code for Robot prototype controller and vision sensor calibration
   
